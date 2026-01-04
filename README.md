@@ -114,7 +114,7 @@ Outputs include:
 | Language | Python 3.10+ |
 | Computer Vision | OpenCV, YOLOv8 |
 | Machine Learning | Scikit-learn (Random Forest) |
-| Simulation | SimPy |
+| Simulation | SimPy,Yafs |
 | Model Persistence | Joblib |
 | Visualization | Matplotlib, Seaborn |
 
